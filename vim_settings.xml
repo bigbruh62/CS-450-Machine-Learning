@@ -1,0 +1,42 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1515873912465">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Documents/Machine Learning/ponder01.py" timestamp="1515877572130">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="33" column="5" />
+        <mark key="." line="33" column="6" />
+        <mark key="o" line="33" column="6" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>.score</text>
+      </register>
+      <register name="-" type="4">
+        <text>.score</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
