@@ -1,0 +1,7 @@
+1. Team members
+Nate Facuri (fac13002@byui.edu)
+Nicolas Palmer (pal15027@byui.edu)
+Joseph Hawker (haw11008@byui.edu)
+
+2. Project
+Scan Twitter for posts that indicate suicidal intent.
